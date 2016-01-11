@@ -36,6 +36,7 @@ Two words ordered from which side of the valley they come from:
 List the extra letters left over after they collide and explode in mid air and determine which side wins or if it was a tie. The design of the output I leave it for you to design and create.
 
 Challenge inputs:
+
 ```
 because cause
 hello below
@@ -47,4 +48,5 @@ isoenzyme apoenzyme
 tribesman brainstem
 blames nimble
 yakuza wizard
-longbow blowup```
+longbow blowup
+```
